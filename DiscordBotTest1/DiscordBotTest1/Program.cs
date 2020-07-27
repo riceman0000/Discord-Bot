@@ -30,7 +30,7 @@ namespace DiscordBotTest1
             _services = new ServiceCollection().BuildServiceProvider();
             _client.MessageReceived += CommandRecieved;
 
-            string token = "NzA1NjA2NDEwMDExOTM0NzQw.XquJUA.t085jfT1EOVKdyGjfRGUHtJ6MsI";
+            string token = "";//個別トークンの設定
             await _commands.AddModulesAsync(System.Reflection.Assembly.GetEntryAssembly(), _services);
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
