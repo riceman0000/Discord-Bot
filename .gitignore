@@ -1,0 +1,130 @@
+＃ユーザー固有のファイル
+* .suo
+* .user
+* .sln.docstates
+
+＃ビルド結果
+
+[ Dd ] ebug /
+[ Rr ] elease /
+x64 /
+【Bbの ] で /
+[ Oo ] bj /
+
+＃ MSTestをテスト結果
+[ Tt ] est [ Rr ] 結果* /
+[ Bb ] uild [ Ll ] og。*
+
+* _i.c
+* _p.c
+* _i.h
+* .ilk
+* .meta
+* .obj
+* .pch
+* .pdb
+* .pgc
+* .pgd
+* .rsp
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* .log
+* .vspscc
+* .vssscc
+.builds
+* .pidb
+* .log
+* .svclog
+* .scc
+
+＃のVisual C ++のキャッシュファイル
+ipch /
+* .aps
+* .ncb
+* .opensdf
+* .sdf
+* .cachefile
+
+＃ Visual Studioのプロファイラ
+* .psess
+* .vsp
+* .vspx
+
+＃ガイダンス自動化ツールキット
+* .gpState
+
+＃ ReSharperのは、アドインをコーディング.NETで
+_ReSharper * /
+* 。[ Rr ] e [ Ss ] ハーパー
+* .DotSettings.user
+
+＃ワンクリックディレクトリ
+公開 /
+
+＃のWeb出力を公開
+* .Publish.xml
+* .pubxml
+* .azurePubxml
+
+＃ NuGetは、ディレクトリをパッケージ
+＃＃ TODO：NuGetパッケージの復元を有効にしている場合は、次の行のコメントを外します
+パッケージ /
+＃＃ TODO：使用するツールでrepositories.configが必要な場合は、次の行もコメント解除します
+！packages / repositories.config
+
+＃のWindows Azureのビルド出力
+csx /
+* .build.csdef
+
+＃ Windowsストアアプリのパッケージディレクトリ
+AppPackages /
+
+＃その他
+sql /
+* .Cache
+ClientBin /
+[ Ss ] tyle [ Cc ] op。*
+！[ Ss ] tyle [ Cc ] op.targets
+〜$ *
+* 〜
+* .dbmdl
+* 。[ Ppを】ublish.xml
+
+* .publishsettings
+
+＃ RIA / Silverlightのプロジェクト
+Generated_Code /
+
+＃古いプロジェクトファイルから新しいプロジェクトファイルへの変換によるバックアップとレポートファイル
+＃のVisual Studioバージョン。gitがあるので、バックアップファイルは必要ありません;-)
+_UpgradeReport_Files /
+バックアップ* /
+UpgradeLog * .XML
+UpgradeLog * .htm
+
+＃ SQL Serverのファイル
+App_Data / * .mdf
+App_Data / * .ldf
+
+＃ =========================
+＃ Windowsの残骸
+＃ =========================
+
+＃ Windowsイメージファイルのキャッシュ
+Thumbs.db
+ehthumbs.db
+
+＃フォルダー設定ファイル
+Desktop.ini
+
+＃ファイル共有で使用されるごみ箱
+$ RECYCLE.BIN /
+
+＃マックデスクトップサービスストアファイル
+.DS_Store
+
+_NCrunch *
